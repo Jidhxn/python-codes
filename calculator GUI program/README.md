@@ -1,7 +1,4 @@
-### The Calculator Code
-
-
-### Code Explanation
+### The Calculator Code - Code Explanation
 
 #### Importing Tkinter
 
