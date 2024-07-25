@@ -1,18 +1,4 @@
-## Title:
-**Building a Simple Calculator with Python and Tkinter**
-
-## Subtitle:
-**A Beginner's Guide to Creating a GUI Calculator**
-
-## Introduction:
-
-Hello, aspiring Python developers! In this blog post, I'll walk you through creating a basic calculator application using Python's Tkinter library. This project is perfect for beginners who want to learn about graphical user interface (GUI) development in Python. We'll cover the entire code and explain each part step by step. By the end of this tutorial, you'll have a functional calculator and a better understanding of how to build GUI applications in Python. Let's get started!
-
----
-
 ### The Calculator Code
-
-Here’s the complete code for the calculator:
 
 ```python
 from tkinter import *
@@ -209,7 +195,3 @@ window.mainloop()
 ```
 
 - **Main Loop:** We start the Tkinter event loop to keep the window open and responsive.
-
-### Conclusion
-
-Creating this calculator was a great way to learn about Tkinter and GUI development in Python. We covered how to set up a window, create buttons, and handle user input. I hope you found this tutorial helpful and feel inspired to create your own GUI applications. Happy coding!
